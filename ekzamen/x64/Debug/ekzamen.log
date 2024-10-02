@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\lenovo\source\repos\ekzamen\ekzamen\main.cpp(21,16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ekzamen.vcxproj -> C:\Users\lenovo\source\repos\ekzamen\x64\Debug\ekzamen.exe
